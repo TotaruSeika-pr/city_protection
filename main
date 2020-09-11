@@ -1,0 +1,9 @@
+import builds
+
+# VARIABLES
+
+map = [3]
+
+# VARIABLES
+
+print(building[2])
