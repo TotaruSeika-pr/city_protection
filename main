@@ -1,9 +1,12 @@
+# IMPORT
 import builds
+import colorama
+# IMPORT 
 
 # VARIABLES
-
-map = [3]
-
+map_hauses = [3]
 # VARIABLES
 
-print(building[2])
+map_hauses[0] = building['Town hall'[3]]
+
+print(building)
