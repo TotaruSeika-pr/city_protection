@@ -7,5 +7,5 @@ def print_map(playr_say, playr_say_i, NPS_say, NPS_say_i, map_houses):
 def options(playr_say, playr_say_i, NPS_say, NPS_say_i):
     print()
 
-def oops(playr_say, playr_say_i, NPS_say, NPS_say_i):
-    print(NPS_say[NPS_say_i] + 'Oosp, i dont know this comand.')
+def invalid_commamd(playr_say, playr_say_i, NPS_say, NPS_say_i):
+    print(NPS_say[NPS_say_i] + 'Oosp, i dont know this command.')
