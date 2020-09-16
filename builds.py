@@ -4,7 +4,7 @@ default_icon_TownHall = 'A'
 default_icon_Mine = 'B'
 default_icon_Wall = 'C'
 default_icon_Temple = 'D'
-default_icon_Defence = 'E'
+default_icon_Defense = 'E'
 
 
 """1 - Town hall
