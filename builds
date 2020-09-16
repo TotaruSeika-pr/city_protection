@@ -1,1 +1,14 @@
-building = ['Town hall'[0, 250, 3, 0, 'A'], 'Mine'[3, 75, 3, 0, 'B'], 'Wall'[15, 350, 0, 0, 'C'], 'Temple'[18, 300, 2, 0, 'D'], 'Defense'[10, 150, 0, 5, 'E']]
+building = [[0, 250, 3, 0], [3, 75, 3, 0], [15, 350, 0, 0], [18, 300, 2, 0], [10, 150, 0, 5]]
+
+default_icon_TownHall = 'A'
+default_icon_Mine = 'B'
+default_icon_Wall = 'C'
+default_icon_Temple = 'D'
+default_icon_Defence = 'E'
+
+
+"""1 - Town hall
+   2 - Mine
+   3 - Wall
+   4 - Temple
+   5 - Defrnce"""
